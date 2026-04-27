@@ -72,6 +72,12 @@ header p {
   min-height: 24px;
 }
 
+#albums p {
+  color: #ffffff;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
 .albums-grid {
     align-items: start;
     display: grid;
