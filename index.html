@@ -1,0 +1,35 @@
+!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Info</title>
+</head>
+<body>
+    <header>
+        <h1>Music Info</h1>
+        <p>Hae tietoa artisteista:</p>
+    </header>
+
+    <div class="controls">
+        <select id="artistsSelect">
+            <option value="Coldplay">Coldplay</option>
+            <option value="Adele">Adele</option>
+            <option value="Muse">Muse</option>
+            <option value="Taylor Swift">Taylor Swift</option>
+            <option value="Ed Sheeran">Ed Sheeran</option>
+            <option value="Imagine Dragons">Imagine Dragons</option>
+        </select>
+
+        <input type="text" id="searchInput" placeholder="Kirjoita artistin nimi">
+        <button id="searchButton">Hae</button>
+    </div>
+
+    <main class="container">
+        <div id="status" class="status"></div>
+        <div id="albums" class="albums-grid"></div>
+        
+    </main>
+
+</body>
+</html>
