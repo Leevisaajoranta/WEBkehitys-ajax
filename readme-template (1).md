@@ -1,25 +1,23 @@
 # Projektin nimi ja tekijät
-Projektin nimi ja kaikki mukana olevat tekijät. 
+Projektin nimi: Music Info 
+mukana olleet tekijät: Leevi Saajoranta 
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 ## Työn jakautuminen 
-Miten työmäärä jaettiin? Kuka teki mitä? Miten yhteistyö sujui?
+Tein työn itsenäisesti joten koko työ jakautui minulle pelkästään.
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Mielestäni onnistuin...
-Parantamista olisi...
-Sovelluksesta jäi puuttumaan...
-Koen, että olen oppinut...
-Epäselväksi jäi...
-Antaisin itselleni pisteitä seuraavasti: xx/yy p
+Mielestäni onnistuin sovelluksen visuaalisuudessa ja käytettävyydessä. Sovellus on yksinkertainen visuaalisesti, mutta myös käytettävyydeltään. 
+Parantamista olisi koodin kirjoittamisessa. Vaikka koodia on tullut kirjoitettua jo, en silti muista aina kaikkia koodin pätkiä.
+Sovelluksesta jäi puuttumaan esimerkiksi se, kun kirjoittaa hakukenttään artistin nimen se ei poista sitä automaattisesti kun vaihdat artistia esimerkiksi suoraan valmiiksi annetuista artisteista.
+Koen, että olen oppinut ymmärtämään mitä kaikkea JavaScriptillä voi tehdä. Sekä myös syvemmin hmtl. ja css. koodin kirjoittamisesta.
+Antaisin itselleni pisteitä seuraavasti: 7/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
-Kurssi sekä lähiopetus ovat tuntuneet... 
-Oppimistani tukisi jos...
-
+Kurssi on tuntunut vieläkin rennolta josta pidän! Tykkään omaan tahtiin menemisestä ja se on sopinut itselle erittäin hyvin työkuvioiden ja vapaa-ajan kanssa. Vaikka en ole päässyt osallistumaan tunneille, olen katsonut ne tallenteelta.
 
 ## Sisällysluettelo:
 
@@ -28,39 +26,32 @@ Oppimistani tukisi jos...
 - [Kuvakaappaukset](#kuvakaappaukset)
 - [Teknologiat](#teknologiat)
 - [Asennus](#asennus)
-- [Lähestymistapa](#lähestymistapa)
 - [Kiitokset](#kiitokset)
-- [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
-[Projektin nimi] on sovellus, joka ...
+Music Info on sovellus, joka näyttää eri artistien kaikki albumit, sekä albumien tiedot kuten kuuntelukerrat, julkaisuajankohdan sekä kappaleet. 
 
 ## Tunnetut virheet/bugit
-Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
+Kun kirjoittaa hakukenttään artistin nimen, mutta valitsee sen jälkeen esimerkiksi artistin joka on jo valittuna valmiiksi annetusta listasta, ei se silloin vaihda tähän valittuun artistiin vaan pysyy artistissa joka on kirjoitettu hakukenttään.
 
 ## Kuvakaappaukset
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-`![Kirjoittaminen](https://unsplash.com/photos/VBPzRgd7gfc)`
+Esimerkki kuva sovelluksen toiminnasta:
+![alt text](/Music-info%20screenshot.png)
 
-Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
-## Teknologiat
-Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
-Käytin seuraavia teknologioita: `html`, `css`, ...
+## Teknologiat  
+Käytin seuraavia teknologioita: `html`, `css` sekä `JavaScript`
+
+html: peruspohjana sovellukselle
+css: ulkonäkö kuten värit sekä elementtien sijoittelu
+JavaScript: Toiminnallisuudet kuten ikkunoiden avautuminen ja sulkeutuminen.
 
 ## Asennus
-Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
-- lataa kaikki tiedostot ja avaa index.html selaimessasi  
-- lataa tai kloonaa repositorio  
-- suorita `npm install`  
-- ...
+Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:   
+- lataa tai kloonaa repositorio tai klikkaa tämän readme.md tiedoston alussa olevaa googlen linkkiä 
+- Music Info avautuu 
+- Voit valita valmiiksi annetusta listasta artistin ja tutkia hänen albumeitaan tai voit kirjoittaa haluamasi artistin nimen hakukenttään
+- Albumin elementissä klikkaamalla "Näytä kappaleet" saat auki albumin tiedot
 
 ## Kiitokset
-Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
-- [John Doe](johndoe.com)  
-- [Beginners guide to BEM](link-goes-here.com)  
-
-## Lisenssi
-Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
+Hyödynsin kurssin materiaalia. Tekoäly työkaluissa käytin ChatGPT:ä. Tekoälyn avulla korjasin virheitä sekä sovelluksen visuaalisuuden ideoimisessa. Tekoälyn avulla löysin virheitä sekä opin niistä.  
