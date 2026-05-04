@@ -3,9 +3,9 @@ Projektin nimi: Music Info
 mukana olleet tekijät: Leevi Saajoranta 
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://leevisaajoranta.github.io/WEBkehitys-ajax/)
-Linkki GitHub repositorioon [Github.com](https://github.com/Leevisaajoranta/WEBkehitys-ajax)
-Linkki netlifyhin [netlify.com](https://app.netlify.com/projects/musiikkisovellus/overview)
+- Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://leevisaajoranta.github.io/WEBkehitys-ajax/)
+- Linkki GitHub repositorioon [Github.com](https://github.com/Leevisaajoranta/WEBkehitys-ajax)
+- Linkki netlifyhin [netlify.com](https://app.netlify.com/projects/musiikkisovellus/overview)
 
 ## Työn jakautuminen 
 Tein työn itsenäisesti joten koko työ jakautui minulle pelkästään.
